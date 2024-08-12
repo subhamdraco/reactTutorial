@@ -1,5 +1,5 @@
 import React from "react";
-import "./Components.css";
+import "./CoreConcepts.css";
 
 export default function Components({ image, description, title }) {
   return (
